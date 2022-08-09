@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,300;0,400;1,300&family=Righteous&family=Sarala&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #191919;
+}
+
+.sobre-a-gente {
+        width: 100%;
+        padding: 78px 0px;
+}
+
+img {
+    height: auto;
+    width: 420px;
+    border-radius: 10px;
+
+}
+
+.sobre-texto {
+    width: 550px;
+}
+
+.Main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+h5 {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+span {
+    color: #eb8350;
+}
+
+p {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+button {
+    background: #eb8350 ;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+
+button:hover {
+    background: #f3a279;
+}
+
+button2 {
+    background: #eb8350 ;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
+
+button2:hover {
+    background: #f3a279;
+}
+
+button3 {
+    background: #eb8350 ;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+    padding: auto;
+}
+
+button3:hover {
+    background: #f3a279;
+}
